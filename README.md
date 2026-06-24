@@ -1,4 +1,4 @@
-# Agent Memory - Can LLMs *Really* Think?
+# Agent Memory
 
 <img src="./media/memory.png" width=600>
 
